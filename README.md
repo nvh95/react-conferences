@@ -1,5 +1,7 @@
 # React Conferences Worldwide
 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+
 ## 2023
 
 | Name      | Time      | Location             | Format    | Price   | Twitter                       | Website                     |
