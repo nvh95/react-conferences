@@ -1,6 +1,6 @@
 # React Conferences Worldwide
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/nvh95/react-conferences/pulls)
 
 ## 2023
 
