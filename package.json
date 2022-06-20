@@ -1,0 +1,27 @@
+{
+  "name": "react-conferences",
+  "version": "0.0.1",
+  "description": "⚛ Up-to-date and Comprehensive list of React Conferences Worldwide 👩‍💻👨‍💻",
+  "keywords": [
+    "react",
+    "react-conference"
+  ],
+  "homepage": "https://github.com/nvh95/react-conferences#readme",
+  "bugs": {
+    "url": "https://github.com/nvh95/react-conferences/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvh95/react-conferences.git"
+  },
+  "license": "MIT",
+  "author": "nvh95",
+  "scripts": {
+    "prettier": "prettier '{,!(node_modules)/**/}*.md' --check",
+    "prettier:fix": "npm run prettier -- --write",
+    "sort": "npx sort-package-json"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
