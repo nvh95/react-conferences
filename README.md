@@ -19,6 +19,7 @@
 | Name                  | Time                  | Location               | Format             | Price                           | Twitter                             | Website                       |
 | --------------------- | --------------------- | ---------------------- | ------------------ | ------------------------------- | ----------------------------------- | ----------------------------- |
 | React Advanced London | Oct 21 & 25, 2022     | London, UK             | In-Person + Remote | £390                            | https://twitter.com/reactadvanced   | https://www.reactadvanced.com |
+| React Brussels        | Oct 14, 2022          | Brussels, Belgium      | In-Person          | £299                            | https://twitter.com/BrusselsReact   | https://www.react.brussels    |
 | React Alicante        | Sept 29-Oct 1, 2022   | Alicante, Spain        | In-person + Remote | €170                            | https://twitter.com/reactalicante   | https://reactalicante.es      |
 | React India           | September 22-24, 2022 | Goa, India             | In-person + Remote | $250                            | https://twitter.com/react_india     | https://www.reactindia.io     |
 | React Finland         | September 12-16, 2022 | Helsinki, Finland      | In-person          | €499                            | https://twitter.com/ReactFinland    | https://react-finland.fi      |
